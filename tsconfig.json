@@ -7,7 +7,7 @@
         "sourceMap": true,
         "noImplicitAny": true,
         "skipLibCheck": true ,
-        // "types" : ["node", "lodash"],
+        "types" : ["node", "lodash"],
         "esModuleInterop": true 
 
     },
